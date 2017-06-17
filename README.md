@@ -17,7 +17,7 @@ II. GLOBAL PARAMETERS SETTINGS
 TO change the gloabl parameters such as number of training epoches, go
 to the following part of the code:
 ==========================================================
-# gloab parameters settings, change training epochs here
+gloab parameters settings, change training epochs here:
 total_len = x_train.shape[0]
 n_input = x_train.shape[1]
 disp_step = 10
