@@ -1,7 +1,7 @@
 # ML_Project_Drug_Design
 Machine learning project for drug design
 
-I. MODEL TESTING
+MODEL TESTING
 TO test the models for classification and regression, simply run
 classification.py and regression.py.
 There will be a simple user interface in the console shown similar to
@@ -36,7 +36,7 @@ For example, ann is typically much slower than the other two models,
 one may want to set "training_epochs = 500"
 to see the plot of training cost vs validation cost or plot regression
 results more quickly.
-*NOTE:
+NOTE:
 For regression test, I use the myFP_CHEMBL217_trans.csv (which is a
 transformation of myFP_CHEMBL217 to
 stucture dataset using excel and R, with ~5000 records), since the
